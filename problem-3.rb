@@ -50,5 +50,5 @@ class ProblemSolver
     end
 end
 
-p = ProblemSolver.new(6008514751433)
+p = ProblemSolver.new(600851475143)
 p.perform
